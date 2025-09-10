@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Piyali Khaitan</h1>
-<h3 align="center">Full Stack + AI Developer | Building scalable,intelligent solutions that drive impact</h3>
+<h3 align="center">Full Stack + AI Developer | Building scalable , intelligent solutions that drive impact</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
